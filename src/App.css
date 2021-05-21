@@ -1,0 +1,61 @@
+.Header {
+  padding: 24px 64px 24px 64px;
+}
+
+.Footer {
+  padding: 24px 64px 24px 64px;
+  margin-bottom: 100px;
+}
+
+.Dashboard {
+  display: flex;
+  flex-direction: column;
+  padding: 24px 64px 24px 64px;
+  justify-content: center;
+}
+
+.Logo {
+  text-align: center;
+}
+
+.Heading_1 {
+  margin: 0;
+  text-align: center;
+}
+
+.Heading_2 {
+  margin: 0;
+  font-size: x-large;
+  text-align: center;
+}
+
+.Sub_heading {
+  margin: 4px;
+  font-weight: 600;
+  color: #3b82f6;
+  text-align: center;
+}
+
+.Information {
+  margin: 25px;
+}
+
+.Form {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.Form input {
+  margin: 5px;
+  padding: 10px;
+  font-size: larger;
+}
+
+.Form button {
+  margin: 5px;
+  padding: 10px;
+  font-size: larger;
+  background-color: #3b82f6;
+  color: white;
+}
